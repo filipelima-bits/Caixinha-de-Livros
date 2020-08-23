@@ -1,11 +1,11 @@
 :root {
     --color-text: #c7ccd1;
     --color-background: #27292b;
-    --color-icon: #4f749e;
+    --color-blue: #4f749e;
     --color-border: #131414;
     --color-button: ;
     --color-background-search: #242629;
-    --color-background-top-bar: #191a1c;
+    --color-background-secondary: #191a1c;
     
     font-size: 60%;
 }
